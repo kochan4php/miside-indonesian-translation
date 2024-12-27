@@ -1,0 +1,19 @@
+// Track names
+Kerupuk
+Minuman bersoda
+Balon
+// Quest none
+Tidak usah dipikirkan.
+// Quest "Meeting Kind Mita"
+Haruskah aku percaya padamu?
+Bagaimana aku bisa sampai di sini?
+Tempat apa ini?
+Bagaimana kamu bisa sampai di sini?
+Apa yang kamu lakukan dengan cincin itu?
+Apakah lorong-lorong itu berbahaya?
+Maukah kamu membantuku melarikan diri?
+kamu menyebutkan sebuah rencana.
+// Quest MitaCap
+Apa kamu ingat sesuatu?
+Apa pendapatmu tentang Mita yang memakai cincin itu?
+Apakah kamu selalu memakai topi itu?

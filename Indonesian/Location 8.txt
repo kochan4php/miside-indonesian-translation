@@ -1,0 +1,11 @@
+// Quest none
+Tidak usah dipikirkan.
+// Quest
+Kamu Mita, bukan?
+Apa yang terjadi padamu?
+Menjadi teman keduamu?
+Apakah ini rumahmu?
+Bagaimana cara meninggalkan tempat ini?
+
+// TV
+DIRILIS!

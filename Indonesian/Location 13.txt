@@ -1,0 +1,14 @@
+// Quest none
+Tidak usah dipikirkan.
+// Quest "First"
+Ke mana saja kau?
+Bagaimana kau bisa sampai di sini?
+Siapa Mita tadi?
+Bagaimana cara kerja cincin ini?
+Kenapa Crazy Mita membutuhkan aku?
+Apa itu Inti-nya?
+// Quest "Second"
+Ada apa?
+Apakah ada cara untuk mengenalinya?
+Bagaimana jika kita menyerang Crazy Mita?
+Orang-orang kecil

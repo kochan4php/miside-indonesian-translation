@@ -1,0 +1,16 @@
+// Quest none
+Tidak usah dipikirkan.
+// Quest "First Mita"
+Apakah kamu Mita?
+Bagaimana jika aku ingin kembali?
+Bagaimana aku bisa masuk ke dalam permainan?
+// Quest "Kitchen eat"
+Rumahmu nyaman.
+Kapan aku bisa pulang?
+Ini terasa seperti mimpi…
+Kenapa semua jendela hanya berwarna putih?
+Kenapa pakai gunting kalau kita bisa memakai pisau?
+Selamat makan!
+// TV
+Jus dingin!
+JUS yang kuat!!!
